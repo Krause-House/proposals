@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This proposal recommends the implementation of a Stewardship Team (ST). The Stewardship Team will consist of 5-7 high-context members who will provide leadership and direction to the DAO, establish priorities, and help manage proposals and expensive projects on behalf of all members. The ST will be able to solve key problems within Krause House such as developing a clear roadmap or DAO-wide understanding of what projects are most urgent. The ST will also be a robust team that can protect against potential future issues like hostile whale takeovers or Sybil attacks. This team would be compensated on a biweekly basis (every 2 weeks) and members could be elected or removed based on community voting.
+This proposal recommends the implementation of a Stewardship Team (ST). The Stewardship Team will consist of 8 high-context members who will provide leadership and direction to the DAO, establish priorities, and help manage proposals and expensive projects on behalf of all members. The ST will be able to solve key problems within Krause House such as developing a clear roadmap or DAO-wide understanding of what projects are most urgent. The ST will also be a robust team that can protect against potential future issues like hostile whale takeovers or Sybil attacks. This team would be compensated on a biweekly basis (every 2 weeks) and members could be elected or removed based on community voting.
 
 
 ## Why?
