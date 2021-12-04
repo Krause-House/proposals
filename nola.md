@@ -4,7 +4,7 @@
 
 **REQUEST NUMBER:** GladRobot.NOLA.1
 
-**RATE:** $2,500
+**RATE:** $2,500 USDC
 
 **DURATION:** 1 time request
 
