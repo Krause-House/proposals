@@ -2,6 +2,8 @@
 
 Proposals for Krause House DAO governance. Votes will occur on [Snapshot](https://snapshot.org/#/krausehouse.eth). Please sign up for alerts within Snapshot.
 
+It is not required to use the "Proposal Template" below, but can be a helpful starting point.
+
 ## Proposal Template
 
 ### Summary
