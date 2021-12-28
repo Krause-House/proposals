@@ -76,7 +76,9 @@ The end game is a grand vision. We must break it down in order to work effective
 1. **Purchase RKL Club NFT**
 
    a. A separate multi-sig will be created. It will require 3/5 signatures and will be comprised of: jdcook, commodore, flex, eli, and lewwwk (proposal author and 4 stewards)
+   
    b. Funds will be transferred from the KH Treasury to the multi-sig.
+
    c. Multi-sig will participate in the auction. After the auction, any remaining funds will be sent back to the KH Treasury.
 
 2. Establish KH RKL Club Workstream
