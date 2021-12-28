@@ -71,7 +71,7 @@ While the economic flywheels within RKL have yet to be released, assets within t
 
 # Execution
 
-The end game is a grand vision. We must break it down in order to work effectively and at speed, but also ensure we stay within regulatory bounds. At the core, we see a succession of stages getting us moving towards the end vision. A hypothetical path_could_ look like:
+The end game is a grand vision. We must break it down in order to work effectively and at speed, but also ensure we stay within regulatory bounds. At the core, we see a succession of stages getting us moving towards the end vision. A hypothetical path *could* look like:
 
 1. **Purchase RKL Club NFT**
 
@@ -86,6 +86,7 @@ The end game is a grand vision. We must break it down in order to work effective
 3. Launch sub-DAO with crowdfund
 
    a. Pay back KH up to its desired ownership stake
+   
    b. Extend the ownership and community of the RKL Club
 
 4. Create governance structures
@@ -95,7 +96,9 @@ The end game is a grand vision. We must break it down in order to work effective
 5. Build up Club
 
    a. Brand
+   
    b. Roster
+   
    c. Management
 
 6. Win championships
