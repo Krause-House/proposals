@@ -121,7 +121,7 @@ Krause House will be the brand behind the biggest RKL Club in the game. Steph Cu
 
 # Proposal
 
-We propose that the**Krause House Treasury deploys up to 70 ETH in acquiring a RKL Club NFT in the upcoming Q1 2022 auction**.
+We propose that the **Krause House Treasury deploys up to 70 ETH in acquiring a RKL Club NFT in the upcoming Q1 2022 auction**.
 
 A separate multi-sig will be created. It will require 3/5 signatures and will comprise: jdcook, commodore, flex, eli, and lewwwk (proposal author and 4 stewards).
 
