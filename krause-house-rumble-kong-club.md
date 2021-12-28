@@ -4,7 +4,7 @@ We envision Krause House being a major owner (and the brand) behind a top-tier R
 
 While this is a lofty vision, it starts with**acquiring a RKL Club NFT**, which is the focus of this proposal. It is intended for future proposals to focus on launching a work stream for all the effort that will be required to establish the Club. But for now, the best path forward (as we explore the sub-DAO design space for both regulatory and effectiveness purposes) is to propose that the KH Treasury funds the acquisition of a RKL Club in the first auction (Q1 2022).
 
-**We propose that the Krause House Treasury deploys up to 70 ETH in acquiring a RKL Club NFT in the upcoming Q1 2022 auction**. In time, a subDAO structure may be proposed and it is likely that external capital will be raised - it is intended that KH could be paid back up to 100% of the cost of the acquisition of the RKL Club NFT.
+**We propose that the Krause House Treasury deploys up to 70 ETH in acquiring a RKL Club NFT in the upcoming Q1 2022 auction**. 70 ETH will be moved to a multi-sig where jdcook (author of proposal) and 4 stewards are owners - this multi-sig will participate in the auction. In time, a subDAO structure may be proposed and it is likely that external capital will be raised - it is intended that KH could be paid back up to 100% of the cost of the acquisition of the RKL Club NFT.
 
 
 # Background
@@ -71,34 +71,39 @@ While the economic flywheels within RKL have yet to be released, assets within t
 
 # Execution
 
-The end game is a grand vision. We must break it down in order to work effectively and at speed, but also ensure we stay within regulatory bounds. At the core, we see a succession of stages getting us moving towards the end vision. A hypothetical path_could_ look like:
+The end game is a grand vision. We must break it down in order to work effectively and at speed, but also ensure we stay within regulatory bounds. At the core, we see a succession of stages getting us moving towards the end vision. A hypothetical path *could* look like:
 
 1. **Purchase RKL Club NFT**
 
-   1. A separate multi-sig will be created. It will require 3/5 signatures and will be comprised of: jdcook, commodore, flex, eli, and lewwwk (proposal author and 4 stewards)
-   2. Funds will be transferred from the KH Treasury to the multi-sig.
-   3. Multi-sig will participate in the auction. After the auction, any remaining funds will be sent back to the KH Treasury.
+   a. A separate multi-sig will be created. It will require 3/5 signatures and will be comprised of: jdcook, commodore, flex, eli, and lewwwk (proposal author and 4 stewards)
+   
+   b. Funds will be transferred from the KH Treasury to the multi-sig.
+
+   c. Multi-sig will participate in the auction. After the auction, any remaining funds will be sent back to the KH Treasury.
 
 2. Establish KH RKL Club Workstream
 
 3. Launch sub-DAO with crowdfund
 
-   1. Pay back KH up to its desired ownership stake
-   2. Extend the ownership and community of the RKL Club
+   a. Pay back KH up to its desired ownership stake
+   
+   b. Extend the ownership and community of the RKL Club
 
 4. Create governance structures
 
-   1. Imagine GM, Coach, Scout, etc NFTs all with management voting rights and token holders determining who is “hired” and gets to hold those NFTs (as an example)
+   a. Imagine GM, Coach, Scout, etc NFTs all with management voting rights and token holders determining who is “hired” and gets to hold those NFTs (as an example)
 
 5. Build up Club
 
-   1. Brand
-   2. Roster
-   3. Management
+   a. Brand
+   
+   b. Roster
+   
+   c. Management
 
 6. Win championships
 
-To be explicitly clear, this proposal is**just for purchasing the RKL Club NFT**. While we have a larger vision around a subDAO structure eventually, the path that gives us the most flexibility while also letting us move fast here is having the Krause House Treasury acquire the Club NFT in the Q1 2022 auction.
+To be explicitly clear, this proposal is **just for purchasing the RKL Club NFT**. While we have a larger vision around a subDAO structure eventually, the path that gives us the most flexibility while also letting us move fast here is having the Krause House Treasury acquire the Club NFT in the Q1 2022 auction.
 
 After purchasing a Club NFT, the top priority will be getting a work stream proposal passed to drive the next stages of establishing the Club. It is envisioned that this work team will take on the responsibility of researching the potential options we can take to building and governing the RKL Club, as well as executing on a decided path and getting the Club into a formal governance structure. Also, this work team may take on the responsibility of creating branding and design for the Club, instantiating Club socials, and introducing the Club to the world. The work stream proposal will dictate the final mandates for the team.
 
