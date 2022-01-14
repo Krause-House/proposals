@@ -8,7 +8,7 @@
 
 **DURATION:** 1 time request
 
-**WALLET:** 0x5cA06356013026A0d09A7Bf770635108A0A6e30d
+**WALLET:** 0x1983dA5059F7d7DA6b4c6cDc3D42D69a334A5E7E
 
 **PURPOSE:** Going beyond the 'Good for the Pelicans' paper and taking initial action.
 
